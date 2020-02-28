@@ -1,0 +1,3 @@
+biggerNumber(firstNumber,secondNumber){
+    
+}
